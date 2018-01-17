@@ -1,6 +1,6 @@
 //
 //  main.c
-//  C Deitel Exercises
+//  chap1
 //
 //  Created by Francisco Gonzalez  on 1/16/18.
 //  Copyright © 2018 Francisco  Gonzalez . All rights reserved.
@@ -10,6 +10,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, world!\n");
+    printf("Hello, chapter 1!\n");
     return 0;
 }
