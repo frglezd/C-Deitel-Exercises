@@ -1,0 +1,7 @@
+
+*.sln
+*.db
+*.vcxproj
+*.tlog
+*.idb
+*.filters
